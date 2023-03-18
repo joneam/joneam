@@ -1,4 +1,4 @@
-Hey there! I'm Jonathan!
+Hey there! I'm Jonathan! :smile:
 ==============================
 
 Currently a Junior Software Engineer
