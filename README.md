@@ -1,4 +1,4 @@
-Hi 👋 My name is Jonathan Neam
+Hey there! I'm Jonathan!
 ==============================
 
 Junior Software Engineer
