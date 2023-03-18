@@ -1,7 +1,7 @@
 Hey there! I'm Jonathan!
 ==============================
 
-Junior Software Engineer
+Currently a Junior Software Engineer
 ------------------------
 
 *   🌍  I'm based in Singapore
